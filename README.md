@@ -1,2 +1,2 @@
-# Vis_Island_Mission
+# Vis Island Mission
 Economy mission for Vis Island map
